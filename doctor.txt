@@ -1,5 +1,6 @@
 #profile-title: ✨ Doctor VPN
 #profile-update-interval: 8
+#support-url: https://t.me/doctorpay_vpnbot
 #announce:
 #subscription-userinfo: upload=0; download=1; total=0; expire=0
   
