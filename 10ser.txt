@@ -1,1 +1,16 @@
+#profile-title: 10 VPN Servers
+#profile-update-interval: 1
+#support-url: https://t.me/doctorpay_vpnbot
+#announce:
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
 
+vless://5694dbd0-11ba-4298-bdd8-4eea80aa7d30@188.114.97.6:443?path=%2Fid-pusat&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18304
+vless://228639b0-48de-4162-a818-d5651ee297b3@188.114.97.6:443?encryption=none&security=tls&sni=investors.spotify.com.cyylr.eu.cc&type=ws&host=investors.spotify.com.cyylr.eu.cc&path=%2Fin-do#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18105
+vless://e1f44762-d7d9-49f4-ba1a-3227d4c88aa8@188.114.97.6:80?encryption=none&security=none&type=ws&host=ads.ruangguru.com.cyylr.eu.cc&path=%2Fid-pusat#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18114
+vless://67bd5517-7fdb-4642-b56f-d7380567cc95@188.114.97.6:443?encryption=none&security=tls&sni=blog.webex.com.cyylr.eu.cc&type=ws&host=blog.webex.com.cyylr.eu.cc&path=%2Fid-pusat#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18133
+vless://d7cf3ffd-d4b1-4930-8538-299500cf85cd@188.114.97.6:80?path=/id-pusat&security=none&encryption=none&host=cache.netflix.com.cyylr.eu.cc&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18148
+vless://6a8f6dc6-2a42-4a03-8047-e39ce6df3ec9@188.114.97.6:443?security=tls&type=ws&path=/my-wbv&host=www.genflix.co.id.cyylr.eu.cc&sni=www.genflix.co.id.cyylr.eu.cc&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18100
+vmess://eyJhZGQiOiIxODguMTE0Ljk3LjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1lZGlhLXNpbjYtMy5jZG4ud2hhdHNhcHAubmV0LmN5eWxyLmV1LmNjIiwiaWQiOiI0NDQ0NDQ0NC00NDQ0LTQ0NDQtODQ0NC00NDQ0NDQ0NDQ0NDQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbXktd2J2IiwicG9ydCI6IjQ0MyIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emIENBLTE4MTAyIiwic2N5IjoiemVybyIsInNuaSI6Im1lZGlhLXNpbjYtMy5jZG4ud2hhdHNhcHAubmV0LmN5eWxyLmV1LmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxODguMTE0Ljk3LjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1lZGlhLXNpbjYtMy5jZG4ud2hhdHNhcHAubmV0LmN5eWxyLmV1LmNjIiwiaWQiOiI0NDQ0NDQ0NC00NDQ0LTQ0NDQtODQ0NC00NDQ0NDQ0NDQ0NDQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbXktd2J2IiwicG9ydCI6IjgwIiwicHMiOiJbT3BlblJheV0g8J+HqPCfh6YgQ0EtMTgxMTUiLCJzY3kiOiJ6ZXJvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://12d8b109-394d-4d0c-a208-2b9a41f09f36@188.114.97.6:443?encryption=none&security=tls&sni=ads.ruangguru.com.cyylr.eu.cc&type=ws&host=ads.ruangguru.com.cyylr.eu.cc&path=%2Fmy-wbv#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18131
+vless://5f225374-54c9-4945-91ea-a911b9384239@188.114.97.6:443?encryption=none&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws&host=graph.instagram.com.cyylr.eu.cc&path=%2Fmy-wbv#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18142
