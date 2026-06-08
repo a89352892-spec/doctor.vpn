@@ -4,6 +4,7 @@
 #announce:
 #subscription-userinfo: upload=0; download=0; total=0; expire=1783501568
 
+vless://457109c0-c17a-4755-8cc4-ef8e00b3da06@expired.doctorvpn.xyz:443?security=reality&encryption=none&pbk=k-chzYYp5MvoiAzPYm4vWjGbqS9b5gnADexCep0HoVQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=expired.doctorvpn.xyz&sid=9591ef292fb31c63#📅 ПОДПИСКА: ДО 08.07.2026
 vless://457109c0-c17a-4755-8cc4-ef8e00b3da06@2.59.216.147:443?security=reality&encryption=none&pbk=k-chzYYp5MvoiAzPYm4vWjGbqS9b5gnADexCep0HoVQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=9591ef292fb31c63#🇳🇱 Doctor Netherlands
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=ru-vk-5.1001notes.ru&fp=chrome&path=%2Fvk&insecure=0#🇫🇷 Doctor France
 vless://02b92210-c4b8-4052-974f-62874a3a34fa@osre3.jykvpn.com:2048?path=/&security=none&encryption=none&host=ads.x5.ru&type=ws#🇩🇪 Doctor Germany
