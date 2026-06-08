@@ -1,0 +1,8 @@
+#profile-title: ПОДПИСКА ИСТЕКЛА
+#profile-update-interval: 1
+#support-url: https://t.me/doctorpay_vpnbot
+#announce: ПОДПИСКА ИСТЕКЛА ПРОДЛИТЬ МОЖНО В @DOCTORPAY_VPNBOT
+#subscription-userinfo: upload=0; download=0; total=1; expire=1780261200
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&encryption=none&type=tcp# Подписка истекла 01.06.2026
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&encryption=none&type=tcp# Продлить можно в @doctorpay_vpnbot
