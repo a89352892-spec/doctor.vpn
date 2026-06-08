@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/doctorpay_vpnbot
 #announce:🔥 Сейчас 30 дней без лимитов. Затем будет 21 день.
-#subscription-userinfo: upload=0; download=0; total=0; expire=1783501568
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1783501568
 
 vless://457109c0-c17a-4755-8cc4-ef8e00b3da06@expired.doctorvpn.xyz:443?security=reality&encryption=none&pbk=k-chzYYp5MvoiAzPYm4vWjGbqS9b5gnADexCep0HoVQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=expired.doctorvpn.xyz&sid=9591ef292fb31c63#📅 ПОДПИСКА: ДО 08.07.2026
 vless://457109c0-c17a-4755-8cc4-ef8e00b3da06@2.59.216.147:443?security=reality&encryption=none&pbk=k-chzYYp5MvoiAzPYm4vWjGbqS9b5gnADexCep0HoVQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=9591ef292fb31c63#🇳🇱 Doctor Netherlands
