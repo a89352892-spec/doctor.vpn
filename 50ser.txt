@@ -1,4 +1,4 @@
-#profile-title: 9 VPN Servers
+#profile-title: 50 VPN Servers
 #profile-update-interval: 1
 #support-url: https://t.me/doctorpay_vpnbot
 #announce:
@@ -53,4 +53,4 @@ vless://4550993c-2191-493a-a612-aaba4a4ec083@g3.steptofsvo.com:443?type=tcp&head
 vless://4550993c-2191-493a-a612-aaba4a4ec083@g7.steptofsvo.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=g7.steptofsvo.com&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#🇨🇭 🏴 Doctor Switzerland #6
 vless://d80b0709-56fe-46cf-aea2-b2e163093788@89.169.90.9:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&fp=chrome&sni=top1174643266.mwscdn.ru#🇮🇹 🏴 Doctor Italy #4
 vless://InternetAzadRobot@146.75.117.91:80?mode=auto&path=%2FTignal&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#🇮🇹 🏴 Doctor Italy #5
-vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?encryption=none&type=httpupgrade&host=mci.ir&path=%2F&security=none#🇮🇹 🏴 Doctor Italy #6
+hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@fi-hel-hostvds-06.sssrvpn.pro:13337?sni=h2.mtproxy-hub.org&obfs=salamander&obfs-password=killmebaby#%F0%9F%87%AB%F0%9F%87%AE%20🏴 Doctor Finland%2C%20%20%7C%20%5BBL%5D
