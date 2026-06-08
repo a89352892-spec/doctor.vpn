@@ -8,7 +8,7 @@ vless://457109c0-c17a-4755-8cc4-ef8e00b3da06@2.59.216.147:443?security=reality&e
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@fr-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=fr-xh-01.hpdata.click&path=/vk&mode=packet-up#%20%F0%9F%87%AB%F0%9F%87%B7%20DoctorFrance
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?brand=%40Arvand_soul&headertype=none&security=&type=tcp#%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?encryption=none&type=raw&headerType=none&security=none.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?encryption=none&type=raw&headerType=none&security=none.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20DoctorVPN
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@fr-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=fr-xh-01.hpdata.click&path=/vk&mode=packet-up#%20%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?headertype=none&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?encryption=none&security=none&type=tcp&headerType=none#%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
