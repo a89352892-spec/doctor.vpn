@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/doctorpay_vpnbot
 #announce:
-#subscription-userinfo: upload=0; download=0; total=0; expire=790758800
+#subscription-userinfo: upload=0; download=0; total=0; expire=1916946000
 
 vless://457109c0-c17a-4755-8cc4-ef8e00b3da06@2.59.216.147:443?security=reality&encryption=none&pbk=k-chzYYp5MvoiAzPYm4vWjGbqS9b5gnADexCep0HoVQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=9591ef292fb31c63#%F0%9F%9A%80+Doctor+VPN
 vless://228639b0-48de-4162-a818-d5651ee297b3@188.114.97.6:443?encryption=none&security=tls&sni=investors.spotify.com.cyylr.eu.cc&type=ws&host=investors.spotify.com.cyylr.eu.cc&path=%2Fin-do#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18105
