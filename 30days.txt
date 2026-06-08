@@ -10,3 +10,11 @@ vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp
 vless://02b92210-c4b8-4052-974f-62874a3a34fa@osre3.jykvpn.com:2048?path=/&security=none&encryption=none&host=ads.x5.ru&type=ws#🇩🇪 Doctor Germany
 vless://02b92210-c4b8-4052-974f-62874a3a34fa@osre3.jykvpn.com:8443?mode=auto&path=/&security=none&encryption=none&host=ads.x5.ru&type=xhttp#🇩🇪 Doctor Germany #2
 vless://0d0f438b-616f-4a49-8971-95b203a122e7@178.250.243.78:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I&sid=6ba85179e30d4fc2#🇩🇪 Doctor Germany #3
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?encryption=none&security=tls&sni=ca-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk#🇨🇦 Doctor Canada #1
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=ca-xh-01.hpdata.click&path=/vk&mode=auto#🇨🇦 Doctor Canada #2
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=ca-xh-01.hpdata.click&path=/vk&mode=packet-up#🇨🇦 Doctor Canada #3
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@167.68.5.43:8443?encryption=none&type=xhttp&mode=auto&host=Itsrezu2.dr-ping.com&path=/&security=tls&fp=chrome&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1#🇨🇾 Doctor Cyprus #1
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@194.36.55.163:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#🇨🇾 Doctor Cyprus #2
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?encryption=none&type=xhttp&mode=auto&host=Itsrezu2.dr-ping.com&path=/&security=tls&fp=chrome&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1#🇨🇾 Doctor Cyprus #3
+vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🇪🇪 Doctor Estonia #1
+vless://9a69c281-b698-4d4e-b76c-42ba116d9f74@coin.blacktoys.ru:443?security=reality&encryption=none&pbk=_3iPGceIoYphvzttZKP5bXSAImOW28i60fiPTILRYWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coin.blacktoys.ru&sid=c29d8c3c48a6f3c8#🇪🇪 Doctor Estonia #2
