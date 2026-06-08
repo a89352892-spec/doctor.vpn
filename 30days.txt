@@ -1,6 +1,6 @@
 #profile-title: 30 DAYS
 #profile-update-interval: 1
-#support-url: https://t.me/+WYjBwNxl9aY5NjI5
+#support-url: https://t.me/doctorpay_vpnbot
 #announce:
 #subscription-userinfo: upload=0; download=0; total=0; expire=1783501568
 
