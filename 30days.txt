@@ -31,5 +31,3 @@ vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xh
 vless://e94e6d93-2025-4a7d-b671-396a158aea56@nl.chunkycorp.shop:8443?encryption=none&type=xhttp&mode=auto&security=tls&sni=nl.chunkycorp.shop&fp=chrome&alpn=h2#🇳🇱 Doctor Netherlands #3
 vless://e94e6d93-2025-4a7d-b671-396a158aea56@31.57.29.46:8443?encryption=none&type=ws&path=%2Fchunkycorp&security=none#🇱🇻 Doctor Latvia
 vless://e94e6d93-2025-4a7d-b671-396a158aea56@se.chunkycorp.shop:8443?encryption=none&type=xhttp&mode=auto&security=tls&sni=se.chunkycorp.shop&fp=chrome&alpn=h2#🇸🇪 Doctor Sweden
-
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@83.228.217.38:8443?fp=chrome&host=linek.perry.us.kg&path=%2Fstar%2Fads%2Ffiles&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B6%20%7C%20%5BBL%5D
