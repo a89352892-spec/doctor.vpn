@@ -28,3 +28,6 @@ vless://46131752-b3d9-4548-9890-13cae88c531b@37.49.230.95:443?encryption=none&fl
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=/Tignal&security=&encryption=none&host=tignaltofansv4.global.ssl.fastly.net&type=xhttp#🇫🇷 Doctor France Fastly
 vless://InternetAzadRobot@151.101.1.57:80?encryption=none&security=none&type=xhttp&host=tignaltofansv4.global.ssl.fastly.net&path=%2FTignal&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 Doctor France Fastly #2
 vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=%2FTignaliSWithYou&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 Doctor France Fastly #3
+vless://e94e6d93-2025-4a7d-b671-396a158aea56@nl.chunkycorp.shop:8443?encryption=none&type=xhttp&mode=auto&security=tls&sni=nl.chunkycorp.shop&fp=chrome&alpn=h2#🇳🇱 Doctor Netherlands #3
+vless://e94e6d93-2025-4a7d-b671-396a158aea56@31.57.29.46:8443?encryption=none&type=ws&path=%2Fchunkycorp&security=none#🇱🇻 Doctor Latvia
+vless://e94e6d93-2025-4a7d-b671-396a158aea56@se.chunkycorp.shop:8443?encryption=none&type=xhttp&mode=auto&security=tls&sni=se.chunkycorp.shop&fp=chrome&alpn=h2#🇸🇪 Doctor Sweden
