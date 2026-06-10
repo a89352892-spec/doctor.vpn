@@ -1,7 +1,7 @@
 #profile-title: 30 DAYS
 #profile-update-interval: 1
 #support-url: https://t.me/doctorpay_vpnbot
-#announce:🔥 Автообновление в 10.06.2026 12:42
+#announce:🔥 Последнее автообновление в 10.06.2026 12:42
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1783501568
 
 vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@by02.botovod.space:443?encryption=none&security=tls&sni=by02.botovod.space&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇧🇾 Doctor Belarus #1
