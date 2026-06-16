@@ -1,0 +1,29 @@
+name: Run Telegram Bot
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Запуск каждые 6 часов
+  workflow_dispatch:        # Возможность запустить вручную
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+    
+    - name: Install dependencies
+      run: |
+        pip install python-telegram-bot requests
+    
+    - name: Run bot
+      env:
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+      run: |
+        python vpn_bot.py
