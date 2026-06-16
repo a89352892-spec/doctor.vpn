@@ -9,7 +9,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ============ КОНФИГУРАЦИЯ ============
-TOKEN = os.environ.get("TELEGRAM_TOKEN", "ВАШ_ТОКЕН_БОТА")
+TOKEN = os.environ.get("TELEGRAM_TOKEN")
 ADMIN_IDS = [7891125109]
 
 # ============ ПАРСИНГ КОНФИГОВ ============
@@ -448,9 +448,22 @@ def main():
 ╚═══════════════════════════════════════════╝
     """)
     
-    if TOKEN == "8659760193:AAE9_FtLz03qRmTtTSMXX_PNuRUSHoRXjc8":
-        print("❌ ОШИБКА: Замени TOKEN на свой токен от @BotFather!")
+    # Токен берётся из секретов GitHub
+    if not TOKEN:
+        print("❌ ОШИБКА: Токен не найден в секретах GitHub!")
+        print("   Добавь секрет TELEGRAM_TOKEN в настройках репозитория")
         return
+    
+    app = Application.builder().token(TOKEN).build()
+    app.add_handler(CommandHandler("start", start))
+    app.add_handler(CommandHandler("help", help_command))
+    app.add_handler(CommandHandler("check", check_command))
+    app.add_handler(CommandHandler("check_file", check_file))
+    app.add_handler(CommandHandler("stats", stats_command))
+    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
+    
+    print("✅ Бот запущен! Напиши /start в Telegram")
+    app.run_polling(allowed_updates=Update.ALL_TYPES)
     
     app = Application.builder().token(TOKEN).build()
     
