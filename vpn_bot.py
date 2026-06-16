@@ -448,22 +448,10 @@ def main():
 ╚═══════════════════════════════════════════╝
     """)
     
-    # Токен берётся из секретов GitHub
     if not TOKEN:
         print("❌ ОШИБКА: Токен не найден в секретах GitHub!")
         print("   Добавь секрет TELEGRAM_TOKEN в настройках репозитория")
         return
-    
-    app = Application.builder().token(TOKEN).build()
-    app.add_handler(CommandHandler("start", start))
-    app.add_handler(CommandHandler("help", help_command))
-    app.add_handler(CommandHandler("check", check_command))
-    app.add_handler(CommandHandler("check_file", check_file))
-    app.add_handler(CommandHandler("stats", stats_command))
-    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
-    
-    print("✅ Бот запущен! Напиши /start в Telegram")
-    app.run_polling(allowed_updates=Update.ALL_TYPES)
     
     app = Application.builder().token(TOKEN).build()
     
