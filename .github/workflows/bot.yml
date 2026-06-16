@@ -24,7 +24,7 @@ jobs:
     
     - name: Run bot
       env:
-        TELEGRAM_TOKEN: ${{ secrets.TELLEGRAM_TOKEN }}
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
       run: |
         python -c "print('Начинаю запуск...')"
         python vpn_bot.py
