@@ -9,7 +9,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ============ КОНФИГУРАЦИЯ ============
-TOKEN = "8659760193:AAE9_FtLz03qRmTtTSMXX_PNuRUSHoRXjc8"  # СЮДА ВСТАВЬ СВОЙ ТОКЕН
+TOKEN = os.environ.get("TELEGRAM_TOKEN", "8659760193:AAE9_FtLz03qRmTtTSMXX_PNuRUSHoRXjc8")
 ADMIN_IDS = [7891125109]  # ТВОЙ TELEGRAM ID
 
 # ============ ПАРСИНГ КОНФИГОВ ============
@@ -448,7 +448,7 @@ def main():
 ╚═══════════════════════════════════════════╝
     """)
     
-    if TOKEN == "8659760193:AAE9_FtLz03qRmTtTSMXX_PNuRUSHoRXjc8":
+    if TOKEN = os.environ.get("TELEGRAM_TOKEN", "8659760193:AAE9_FtLz03qRmTtTSMXX_PNuRUSHoRXjc8")
         print("❌ ОШИБКА: Замени TOKEN на свой токен от @BotFather!")
         return
     
