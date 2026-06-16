@@ -5,6 +5,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1783501568
 
 vless://457109c0-c17a-4755-8cc4-ef8e00b3da06@expired.doctorvpn.xyz:443?security=reality&encryption=none&pbk=k-chzYYp5MvoiAzPYm4vWjGbqS9b5gnADexCep0HoVQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=expired.doctorvpn.xyz&sid=9591ef292fb31c63#📅 ПОДПИСКА: ДО 08.07.2026
+vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@45.206.0.37:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=37772edff71b4167#🇷🇺 С ДНЁМ КВАСА 🍺
 vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@31.77.158.156:48350?flow=xtls-rprx-vision&fp=firefox&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&security=reality&sni=stats.vk-portal.net&type=tcp#🇫🇷 Access to Telegram
 vless://a7896b5b-1c7d-4148-9429-fcdf949137bf@151.101.7.243:80?mode=auto&path=%2F&security=&encryption=none&host=kakapi.global.ssl.fastly.net&type=xhttp#🇦🇱 Doctor VPN
 vless://0e72007e-5e69-48af-bc76-2cc0eef522a5@87.58.206.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#🇩🇰 Doctor VPN
