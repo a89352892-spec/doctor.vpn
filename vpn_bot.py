@@ -9,7 +9,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ============ КОНФИГУРАЦИЯ ============
-TOKEN = os.environ.get("TELEGRAM_TOKEN", "8659760193:AAE9_FtLz03qRmTtTSMXX_PNuRUSHoRXjc8")
+TOKEN = os.environ.get("TELEGRAM_TOKEN", "ВАШ_ТОКЕН_БОТА")
 ADMIN_IDS = [7891125109]
 
 # ============ ПАРСИНГ КОНФИГОВ ============
