@@ -10,7 +10,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # ============ КОНФИГУРАЦИЯ ============
 TOKEN = os.environ.get("TELEGRAM_TOKEN", "8659760193:AAE9_FtLz03qRmTtTSMXX_PNuRUSHoRXjc8")
-ADMIN_IDS = [7891125109]  # ТВОЙ TELEGRAM ID
+ADMIN_IDS = [7891125109]
 
 # ============ ПАРСИНГ КОНФИГОВ ============
 
@@ -448,20 +448,11 @@ def main():
 ╚═══════════════════════════════════════════╝
     """)
     
-    if TOKEN = os.environ.get("TELEGRAM_TOKEN", "8659760193:AAE9_FtLz03qRmTtTSMXX_PNuRUSHoRXjc8")
+    if TOKEN == "8659760193:AAE9_FtLz03qRmTtTSMXX_PNuRUSHoRXjc8":
         print("❌ ОШИБКА: Замени TOKEN на свой токен от @BotFather!")
         return
     
-    # Пытаемся использовать прокси от v2rayN (если он запущен)
-    try:
-        from telegram.request import HTTPXRequest
-        proxy_url = "http://127.0.0.1:10809"
-        request = HTTPXRequest(proxy=proxy_url)
-        app = Application.builder().token(TOKEN).request(request).build()
-        print("✅ Использую HTTP прокси 127.0.0.1:10809")
-    except:
-        app = Application.builder().token(TOKEN).build()
-        print("⚠️ Прокси не настроен, использую прямое подключение")
+    app = Application.builder().token(TOKEN).build()
     
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("help", help_command))
