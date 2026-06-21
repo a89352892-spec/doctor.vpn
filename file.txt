@@ -1,81 +1,625 @@
-#profile-title: 30 DAYS
-#profile-update-interval: 1
-#support-url: https://t.me/doctorpay_vpnbot
-#announce:🔥 Последнее автообновление было 16.06.2026 в 23:08 по МСК
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1783501568
+-- ForestHunter V3 by Arturiki555555
+-- Для игры: 99 Nights in the Forest
+-- Добавлено: Авто-сбор, Авто-атака, Сохранение позиций, 
+-- Авто-лут, Невидимость, Анти-АФК, Name Tags, Item ESP
 
-vless://457109c0-c17a-4755-8cc4-ef8e00b3da06@expired.doctorvpn.xyz:443?security=reality&encryption=none&pbk=k-chzYYp5MvoiAzPYm4vWjGbqS9b5gnADexCep0HoVQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=expired.doctorvpn.xyz&sid=9591ef292fb31c63#📅 ПОДПИСКА: ДО 08.07.2026
-vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@45.206.0.37:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=37772edff71b4167#🇷🇺 С ДНЁМ КВАСА 🍺
-vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@31.77.158.156:48350?flow=xtls-rprx-vision&fp=firefox&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&security=reality&sni=stats.vk-portal.net&type=tcp#🇫🇷 Access to Telegram
-vless://a7896b5b-1c7d-4148-9429-fcdf949137bf@151.101.7.243:80?mode=auto&path=%2F&security=&encryption=none&host=kakapi.global.ssl.fastly.net&type=xhttp#🇦🇱 Doctor VPN
-vless://0e72007e-5e69-48af-bc76-2cc0eef522a5@87.58.206.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#🇩🇰 Doctor VPN
-vless://5854d471-23a6-4c97-a398-95f483f885b0@aziz.carderrr.com:44114?type=tcp&security=none&fp=chrome#🇫🇮 Doctor VPN
-vless://b9f33025-9b40-4ece-9a10-85da0f0af052@fin185.alexanderoff.ru:36294?security=&encryption=none&headerType=&type=tcp#🇫🇮 Doctor VPN
-vless://457d9c9f-6b8a-45d5-97aa-58ec708fc1c3@167.104.216.126:443?path=%2Fmuhasv&security=tls&fragment=1-1,1-0,tlshello,null&encryption=none&alpn=http/1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%221-0%22%2C%22length%22%3A%221-1%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&host=finlandhetzner.260109.xyz&fp=chrome&allowinsecure=0&type=ws&sni=finlandhetzner.260109.xyz#🇫🇮 Doctor VPN
-vless://200309bc-7f3d-4db1-9492-d01295c84319@45.155.169.91:52859?encryption=none&security=none&type=tcp&headerType=none#🇫🇷 Doctor VPN
-vless://200309bc-7f3d-4db1-9492-d01295c84319@45.155.169.91:52859#🇫🇷 Doctor VPN
-vless://bb94556c-2c7c-4ce3-87d8-fbb34078848a@82.22.175.105:2086?encryption=none&security=none&type=ws&path=%2F#🇩🇪 Doctor VPN
-vless://e8380a1e-9fe5-4be6-adab-6bcbef0b712d@18.184.226.106:443?mode=stream-one&path=%40namedzadim%40namedzadim%40namedzadim%40namedzarim%40namedzadim%40namedzadim&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=tRraaUkegIcUioLh0DaxobRBlJRF8kv8WRgDWudV-S4&fp=firefox&spx=%2FitMru8KDtdA4W1K&type=xhttp&sni=yahoo.com&sid=d8b1ba40d0332d#🇩🇪 Doctor VPN
-vless://d6c8c72b-32ae-4ef5-8637-fb162d4eea81@199.232.244.3:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ChromeAppleWebKit.global.ssl.fastly.net&fp=randomized&type=xhttp&allowInsecure=0&sni=global.fastly.com#🇩🇪 Doctor VPN
-vless://893b7c1f-f62c-4cac-8123-49991e114813@hu88.bearbeer.digital:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=hu88.bearbeer.digital&spx=/#🇭🇺 Doctor VPN
-vless://0e72007e-5e69-48af-bc76-2cc0eef522a5@191.44.113.2:443?flow=xtls-rprx-vision&fp=firefox&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#🇵🇱 Doctor VPN
-vless://d999eb9a-4aa8-43e4-a912-e86ef99ec143@5.175.141.223:2095?security=none&type=httpupgrade&headerType=&path=%2F&host=pl.carefreemob2.com.#🇵🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.102:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.107:8443?security=tls&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.114:8443?security=tls&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.115:8443?security=tls&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.117:8443?security=tls&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.118:8443?security=tls&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.120:8443?security=tls&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.121:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.67:8443?security=tls&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.78:8443?security=tls&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.84:8443?security=tls&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.96:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴 Doctor VPN
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@194.87.143.111:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇸🇪 Doctor VPN
-vless://e6f9ad6e-4166-4b98-85c8-53d75ec3832f@83.228.225.29:30781?fp=firefox&pbk=FVbLgN2sj_1WrbMhsh_vltW1NOX84WNC6x8Ed_DQSB0&security=reality&sid=94d8&sni=www.yahoo.com&spx=/oEGgDrGwGC5HR0H&type=tcp#🇨🇭 Doctor VPN
-vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@bypass.ch-gt-02.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=40ce08cf20c67003&type=tcp&headerType=none#🇨🇭 Doctor VPN
-vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#🇨🇭 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.109:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.111:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.112:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.14:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.51:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.58:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.70:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.95:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.96:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.97:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@89.187.174.110:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#🇳🇱 Doctor VPN
-vless://394f6981-a782-4779-9a85-e6cf22935d93@89.187.174.121:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#🇳🇱 Doctor VPN
-vless://9f40f5f5-67da-4d1d-bd30-d364f41661dd@de.mizanserver.ir:8008?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=Ts0lHSf_gr6pnktPluGRltbC3fbr4VlNTbmWdDHPln0&sid=ece76a51ba6e277c&spx=/#🇳🇱 Doctor VPN
-vless://b56a960b-b053-4935-8e34-b14b93696067@107.181.139.169:7185?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=chrome&alpn=h2,http/1.1&pbk=PmmoEXhS1D8EyJQDEvMYI-KMmg7kRqhtVqRlLHABslc&sid=10a34ebe78af0b14#🇬🇧 Doctor VPN
-vless://b56a960b-b053-4935-8e34-b14b93696067@107.181.139.169:7185?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=PmmoEXhS1D8EyJQDEvMYI-KMmg7kRqhtVqRlLHABslc&sid=10a34ebe78af0b14#🇬🇧 Doctor VPN
-vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@uk-gthost-01.com:8443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=&path=&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&quicsecurity=none&security=reality&servicename=&sid=37772edff71b4167&sni=storage.yandex.net&type=tcp#🇬🇧 Doctor VPN
-vless://598160c6-982d-4b2d-8218-c8ab745f7677@uk-gthost-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=firefox&security=reality&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=37772edff71b4167#🇬🇧 Doctor VPN
-vless://598160c6-982d-4b2d-8218-c8ab745f7677@uk-gthost-01.com:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=37772edff71b4167&type=tcp&path=%2f#🇬🇧 Doctor VPN
-vless://5637cee1-a01e-4a44-9c0b-3abb3211894c@top2156289056.mwscdn.ru:443?mode=auto&path=%2Fapi%2Fhel&security=tls&encryption=none&allowinsecure=0&type=xhttp&sni=top2156289056.mwscdn.ru#🇬🇧 Doctor VPN
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@194.87.143.111:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ai.sellflow.org&type=tcp#🇺🇸 Doctor VPN
-vless://0e72007e-5e69-48af-bc76-2cc0eef522a5@23.94.252.144:443?flow=xtls-rprx-vision&fp=firefox&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#🇺🇸 Doctor VPN
-vless://46d71764-e77f-469b-b6f7-83ec086d46cc@sv3.azparadox.ir:8880?encryption=none&security=none&type=ws&host=azsv3.ir5ive.ir&path=%2F#🇺🇸 Doctor VPN
-vless://039a1658-e86e-475f-a3a4-67cc249acada@46.8.98.55:443?flow=xtls-rprx-vision&fp=firefox&pbk=MFuAxjdSnjCk_8Vi_-KGyWryFfSmm902nVhACDSIzBw&security=reality&sid=d9d688fc488ae13b&sni=us1.panel11.ru&type=tcp#🇺🇸 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@153.121.76.150:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@67.230.174.48:443?encryption=none&type=ws&sni=s5.868001.xyz&security=tls&fp=chrome&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@103.53.80.151:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@160.16.57.18:443?encryption=none&type=ws&sni=s5.868001.xyz&security=tls&fp=chrome&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@153.121.32.71:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@103.53.80.211:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@77.93.90.231:443?encryption=none&type=ws&sni=s5.868001.xyz&security=tls&fp=chrome&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@103.170.233.139:8443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@103.53.80.87:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@45.192.242.10:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@82.152.91.210:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@213.210.4.19:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.161:443?encryption=none&type=ws&sni=s5.868001.xyz&security=tls&fp=chrome&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.175:443?encryption=none&type=ws&sni=s5.868001.xyz&security=tls&fp=chrome&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.178:443?encryption=none&type=ws&sni=s5.868001.xyz&security=tls&fp=chrome&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.179:443?encryption=none&type=ws&sni=s5.868001.xyz&security=tls&fp=chrome&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@185.248.184.201:2053?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@188.253.6.249:443?encryption=none&type=ws&sni=s5.868001.xyz&security=tls&fp=chrome&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@154.17.8.84:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@80.251.214.111:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3DProxyIP.CMLiussss.net#🌍 Doctor VPN
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoid = character:WaitForChild("Humanoid")
+local rootPart = character:WaitForChild("HumanoidRootPart")
+
+-- Переменные для функций
+local speedEnabled = false
+local flyEnabled = false
+local noclipEnabled = false
+local autoFarm = false
+local autoCampfire = false
+local autoEat = false
+local autoCollect = false
+local autoKill = false
+local autoLoot = false
+local invisibility = false
+local antiAFK = false
+local nameTags = false
+local itemESP = false
+
+-- Сохранение позиций
+local savedPositions = {}
+local positionIndex = 1
+
+-- Создаем GUI
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "ForestHunterGUI"
+screenGui.Parent = player.PlayerGui
+
+local mainFrame = Instance.new("Frame")
+mainFrame.Size = UDim2.new(0, 420, 0, 650)
+mainFrame.Position = UDim2.new(0.5, -210, 0.5, -325)
+mainFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+mainFrame.BackgroundTransparency = 0.15
+mainFrame.BorderSizePixel = 0
+mainFrame.Parent = screenGui
+
+-- Заголовок
+local title = Instance.new("TextLabel")
+title.Size = UDim2.new(1, 0, 0, 45)
+title.BackgroundColor3 = Color3.fromRGB(255, 120, 50)
+title.Text = "🌲 ForestHunter V3"
+title.TextColor3 = Color3.fromRGB(255, 255, 255)
+title.TextScaled = true
+title.Font = Enum.Font.GothamBold
+title.Parent = mainFrame
+
+-- Контейнер для кнопок
+local buttonContainer = Instance.new("ScrollingFrame")
+buttonContainer.Size = UDim2.new(1, -20, 1, -60)
+buttonContainer.Position = UDim2.new(0, 10, 0, 50)
+buttonContainer.BackgroundTransparency = 1
+buttonContainer.Parent = mainFrame
+
+-- Функция создания кнопки
+local function createButton(text, position, callback)
+    local btn = Instance.new("TextButton")
+    btn.Size = UDim2.new(1, 0, 0, 35)
+    btn.Position = UDim2.new(0, 0, position, 0)
+    btn.BackgroundColor3 = Color3.fromRGB(60, 60, 80)
+    btn.Text = text
+    btn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    btn.TextScaled = true
+    btn.Font = Enum.Font.Gotham
+    btn.Parent = buttonContainer
+    
+    btn.MouseButton1Click:Connect(callback)
+    return btn
+end
+
+-- ============ НОВЫЕ ФУНКЦИИ ============
+
+-- 1. Умный авто-сбор ресурсов
+local collectRadius = 30
+createButton("🌿 Авто-сбор ресурсов", 0, function()
+    autoCollect = not autoCollect
+    
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "🌲 ForestHunter",
+        Text = "Авто-сбор " .. (autoCollect and "включен" or "выключен"),
+        Duration = 2
+    })
+    
+    while autoCollect do
+        wait(0.5)
+        for _, v in pairs(workspace:GetDescendants()) do
+            if v:IsA("Model") or v:IsA("Part") then
+                local name = v.Name:lower()
+                -- Список ресурсов для сбора
+                local resources = {"berry", "mushroom", "herb", "stone", "ore", "wood", "branch", "flower", "grass", "fruit"}
+                for _, resource in pairs(resources) do
+                    if name:find(resource) then
+                        local distance = (rootPart.Position - v:GetPivot().Position).Magnitude
+                        if distance < collectRadius then
+                            rootPart.CFrame = v:GetPivot() + Vector3.new(0, 2, 0)
+                            wait(0.3)
+                            -- Имитация сбора
+                            local tool = player.Backpack:FindFirstChildWhichIsA("Tool")
+                            if tool then
+                                tool.Parent = character
+                                tool:Activate()
+                                wait(0.3)
+                                tool.Parent = player.Backpack
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end)
+
+-- 2. Авто-атака
+local attackRange = 20
+createButton("⚔️ Авто-атака", 40, function()
+    autoKill = not autoKill
+    
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "🌲 ForestHunter",
+        Text = "Авто-атака " .. (autoKill and "включена" or "выключена"),
+        Duration = 2
+    })
+    
+    while autoKill do
+        wait(0.1)
+        local nearestEnemy = nil
+        local nearestDist = attackRange
+        
+        for _, v in pairs(workspace:GetDescendants()) do
+            if v:IsA("Model") and v:FindFirstChild("Humanoid") then
+                -- Проверка что это враг (не игрок)
+                if not game.Players:GetPlayerFromCharacter(v) then
+                    local distance = (rootPart.Position - v:GetPivot().Position).Magnitude
+                    if distance < nearestDist then
+                        nearestEnemy = v
+                        nearestDist = distance
+                    end
+                end
+            end
+        end
+        
+        if nearestEnemy then
+            rootPart.CFrame = nearestEnemy:GetPivot() + Vector3.new(0, 0, 3)
+            wait(0.1)
+            -- Атака
+            local tool = character:FindFirstChildWhichIsA("Tool")
+            if tool then
+                tool:Activate()
+            else
+                -- Если нет оружия, бьем руками
+                humanoid:TakeDamage(10)
+            end
+        end
+    end
+end)
+
+-- 3. Сохранение позиций
+createButton("💾 Сохранить позицию (1-5)", 80, function()
+    local pos = rootPart.Position
+    savedPositions[positionIndex] = pos
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "🌲 ForestHunter",
+        Text = "Позиция " .. positionIndex .. " сохранена!",
+        Duration = 2
+    })
+    positionIndex = positionIndex + 1
+    if positionIndex > 5 then positionIndex = 1 end
+end)
+
+-- Телепорт к сохраненным позициям
+createButton("🌀 Телепорт к сохр. позиции (1-5)", 120, function()
+    if savedPositions[positionIndex] then
+        rootPart.CFrame = CFrame.new(savedPositions[positionIndex])
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "🌲 ForestHunter",
+            Text = "Телепорт к позиции " .. positionIndex,
+            Duration = 2
+        })
+    else
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "🌲 ForestHunter",
+            Text = "Позиция " .. positionIndex .. " не сохранена!",
+            Duration = 2
+        })
+    end
+    positionIndex = positionIndex + 1
+    if positionIndex > 5 then positionIndex = 1 end
+end)
+
+-- 4. Авто-лут
+createButton("📦 Авто-лут (подбор предметов)", 160, function()
+    autoLoot = not autoLoot
+    
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "🌲 ForestHunter",
+        Text = "Авто-лут " .. (autoLoot and "включен" or "выключен"),
+        Duration = 2
+    })
+    
+    while autoLoot do
+        wait(0.3)
+        for _, v in pairs(workspace:GetDescendants()) do
+            if v:IsA("BasePart") and v.Name:lower():find("item") or v.Name:lower():find("loot") or v.Name:lower():find("drop") then
+                local distance = (rootPart.Position - v.Position).Magnitude
+                if distance < 10 then
+                    rootPart.CFrame = v.CFrame + Vector3.new(0, 1, 0)
+                    wait(0.2)
+                    -- Имитация подбора
+                    if v:FindFirstChild("ClickDetector") then
+                        v.ClickDetector:Click()
+                    end
+                end
+            end
+        end
+    end
+end)
+
+-- 5. Невидимость для мобов
+createButton("👻 Невидимость (для мобов)", 200, function()
+    invisibility = not invisibility
+    
+    if invisibility then
+        -- Делаем персонажа невидимым
+        for _, part in pairs(character:GetDescendants()) do
+            if part:IsA("BasePart") then
+                part.Transparency = 1
+            end
+        end
+        -- Отключаем коллизию
+        for _, part in pairs(character:GetDescendants()) do
+            if part:IsA("BasePart") then
+                part.CanCollide = false
+            end
+        end
+        -- Скрываем имя
+        if character:FindFirstChild("Head") then
+            character.Head:FindFirstChild("BillboardGui").Enabled = false
+        end
+        
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "🌲 ForestHunter",
+            Text = "Невидимость включена! Мобы не видят тебя.",
+            Duration = 3
+        })
+    else
+        -- Возвращаем видимость
+        for _, part in pairs(character:GetDescendants()) do
+            if part:IsA("BasePart") then
+                part.Transparency = 0
+                part.CanCollide = true
+            end
+        end
+        if character:FindFirstChild("Head") and character.Head:FindFirstChild("BillboardGui") then
+            character.Head.BillboardGui.Enabled = true
+        end
+        
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "🌲 ForestHunter",
+            Text = "Невидимость выключена",
+            Duration = 2
+        })
+    end
+end)
+
+-- 6. Анти-АФК
+createButton("⏰ Анти-АФК", 240, function()
+    antiAFK = not antiAFK
+    
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "🌲 ForestHunter",
+        Text = "Анти-АФК " .. (antiAFK and "включен" or "выключен"),
+        Duration = 2
+    })
+    
+    while antiAFK do
+        wait(60) -- Каждую минуту
+        -- Имитация движения
+        local pos = rootPart.Position
+        rootPart.CFrame = CFrame.new(pos + Vector3.new(0, 0.1, 0))
+        wait(0.5)
+        rootPart.CFrame = CFrame.new(pos)
+        -- Имитация чата
+        if math.random(1, 10) == 1 then
+            game:GetService("ReplicatedStorage"):FindFirstChild("DefaultChatSystemChatEvents"):FindFirstChild("SayMessageRequest"):FireServer("I'm here!", "All")
+        end
+    end
+end)
+
+-- 7. Name Tags (показывать имена и HP игроков)
+createButton("🏷️ Name Tags (имена + HP)", 280, function()
+    nameTags = not nameTags
+    
+    if nameTags then
+        for _, p in pairs(game.Players:GetPlayers()) do
+            if p ~= player then
+                local char = p.Character
+                if char and char:FindFirstChild("Head") then
+                    -- Создаем билборд с HP
+                    local billboard = Instance.new("BillboardGui")
+                    billboard.Name = "NameTagESP"
+                    billboard.Size = UDim2.new(0, 200, 0, 50)
+                    billboard.AlwaysOnTop = true
+                    billboard.Parent = char.Head
+                    
+                    local nameLabel = Instance.new("TextLabel")
+                    nameLabel.Size = UDim2.new(1, 0, 0.5, 0)
+                    nameLabel.BackgroundTransparency = 1
+                    nameLabel.Text = p.Name
+                    nameLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+                    nameLabel.TextScaled = true
+                    nameLabel.Font = Enum.Font.GothamBold
+                    nameLabel.Parent = billboard
+                    
+                    local hpBar = Instance.new("Frame")
+                    hpBar.Size = UDim2.new(1, 0, 0.4, 0)
+                    hpBar.Position = UDim2.new(0, 0, 0.5, 0)
+                    hpBar.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+                    hpBar.Parent = billboard
+                    
+                    local hpFill = Instance.new("Frame")
+                    hpFill.Size = UDim2.new(1, 0, 1, 0)
+                    hpFill.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+                    hpFill.Parent = hpBar
+                    
+                    -- Обновление HP
+                    game:GetService("RunService").Heartbeat:Connect(function()
+                        if char and char:FindFirstChild("Humanoid") then
+                            local hp = char.Humanoid.Health / char.Humanoid.MaxHealth
+                            hpFill.Size = UDim2.new(hp, 0, 1, 0)
+                            hpFill.BackgroundColor3 = Color3.fromRGB(255 * (1 - hp), 255 * hp, 0)
+                        end
+                    end)
+                end
+            end
+        end
+    else
+        -- Удаляем все NameTags
+        for _, v in pairs(workspace:GetDescendants()) do
+            if v.Name == "NameTagESP" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+-- 8. Item ESP (подсветка ценных предметов)
+createButton("💎 Item ESP (ценные предметы)", 320, function()
+    itemESP = not itemESP
+    
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "🌲 ForestHunter",
+        Text = "Item ESP " .. (itemESP and "включен" or "выключен"),
+        Duration = 2
+    })
+    
+    if itemESP then
+        -- Создаем ESP для предметов
+        local function addESP(item)
+            if item:IsA("Model") or item:IsA("BasePart") then
+                local name = item.Name:lower()
+                local valuable = {"chest", "gold", "diamond", "crystal", "epic", "legendary", "rare", "key", "boss", "treasure"}
+                
+                for _, v in pairs(valuable) do
+                    if name:find(v) then
+                        local highlight = Instance.new("Highlight")
+                        highlight.Adornee = item
+                        highlight.FillColor = Color3.fromRGB(255, 215, 0) -- Золотой
+                        highlight.FillTransparency = 0.3
+                        highlight.OutlineColor = Color3.fromRGB(255, 255, 255)
+                        highlight.Name = "ItemESP"
+                        highlight.Parent = item
+                        
+                        -- Добавляем название
+                        local billboard = Instance.new("BillboardGui")
+                        billboard.Name = "ItemNameESP"
+                        billboard.Size = UDim2.new(0, 150, 0, 30)
+                        billboard.AlwaysOnTop = true
+                        billboard.Parent = item
+                        
+                        local text = Instance.new("TextLabel")
+                        text.Size = UDim2.new(1, 0, 1, 0)
+                        text.BackgroundTransparency = 1
+                        text.Text = item.Name
+                        text.TextColor3 = Color3.fromRGB(255, 215, 0)
+                        text.TextScaled = true
+                        text.Font = Enum.Font.GothamBold
+                        text.Parent = billboard
+                        break
+                    end
+                end
+            end
+        end
+        
+        -- Сканируем мир
+        for _, v in pairs(workspace:GetDescendants()) do
+            addESP(v)
+        end
+        
+        -- Сканируем новые предметы
+        workspace.DescendantAdded:Connect(addESP)
+    else
+        -- Удаляем все ESP
+        for _, v in pairs(workspace:GetDescendants()) do
+            if v.Name == "ItemESP" or v.Name == "ItemNameESP" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+-- ============ СТАРЫЕ ФУНКЦИИ (оставляем) ============
+
+-- Авто-заправка костра
+createButton("🔥 Авто-заправка костра (до 6 ур.)", 360, function()
+    autoCampfire = not autoCampfire
+    
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "🌲 ForestHunter",
+        Text = "Авто-заправка " .. (autoCampfire and "включена" or "выключена"),
+        Duration = 2
+    })
+    
+    while autoCampfire do
+        wait(1)
+        for _, v in pairs(workspace:GetDescendants()) do
+            if v.Name == "Campfire" or v.Name == "Fire" then
+                -- Ищем инвентарь для заправки
+                local inventory = player.Backpack:GetChildren()
+                for _, item in pairs(inventory) do
+                    if item:IsA("Tool") and (item.Name:lower():find("wood") or item.Name:lower():find("log") or item.Name:lower():find("fuel")) then
+                        -- Телепортируемся к костру
+                        rootPart.CFrame = v.CFrame + Vector3.new(0, 2, 2)
+                        wait(0.5)
+                        -- Используем предмет
+                        item.Parent = character
+                        item:Activate()
+                        wait(1)
+                        item.Parent = player.Backpack
+                        -- Проверяем уровень
+                        if v:FindFirstChild("Level") and v.Level.Value >= 6 then
+                            game:GetService("StarterGui"):SetCore("SendNotification", {
+                                Title = "🌲 ForestHunter",
+                                Text = "🔥 Костер достиг 6 уровня!",
+                                Duration = 3
+                            })
+                            autoCampfire = false
+                        end
+                        break
+                    end
+                end
+                break
+            end
+        end
+    end
+end)
+
+-- Телепорт к костру
+createButton("🔥 Телепорт к костру", 400, function()
+    for _, v in pairs(workspace:GetDescendants()) do
+        if v.Name == "Campfire" or v.Name == "Fire" then
+            rootPart.CFrame = v.CFrame + Vector3.new(0, 3, 0)
+            break
+        end
+    end
+end)
+
+-- Телепорт к дереву
+createButton("🌳 Телепорт к дереву", 440, function()
+    for _, v in pairs(workspace:GetDescendants()) do
+        if v:IsA("Model") and (v.Name:lower():find("tree") or v.Name:lower():find("wood")) then
+            rootPart.CFrame = v:GetPivot() + Vector3.new(0, 3, 0)
+            break
+        end
+    end
+end)
+
+-- Супер-скорость
+createButton("💨 Супер-скорость", 480, function()
+    speedEnabled = not speedEnabled
+    if speedEnabled then
+        humanoid.WalkSpeed = 50
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "🌲 ForestHunter",
+            Text = "Скорость включена!",
+            Duration = 2
+        })
+    else
+        humanoid.WalkSpeed = 16
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "🌲 ForestHunter",
+            Text = "Скорость выключена",
+            Duration = 2
+        })
+    end
+end)
+
+-- Полет
+createButton("✈️ Режим полета", 520, function()
+    flyEnabled = not flyEnabled
+    
+    if flyEnabled then
+        local fly = Instance.new("BodyVelocity")
+        fly.Name = "FlyVelocity"
+        fly.MaxForce = Vector3.new(4000, 4000, 4000)
+        fly.Velocity = Vector3.new(0, 10, 0)
+        fly.Parent = rootPart
+        
+        local userInput = game:GetService("UserInputService")
+        local move = Vector3.new(0, 0, 0)
+        
+        userInput.InputBegan:Connect(function(input, gameProcessed)
+            if gameProcessed then return end
+            if input.KeyCode == Enum.KeyCode.W then move = move + Vector3.new(0, 0, -1) end
+            if input.KeyCode == Enum.KeyCode.S then move = move + Vector3.new(0, 0, 1) end
+            if input.KeyCode == Enum.KeyCode.A then move = move + Vector3.new(-1, 0, 0) end
+            if input.KeyCode == Enum.KeyCode.D then move = move + Vector3.new(1, 0, 0) end
+            if input.KeyCode == Enum.KeyCode.Space then move = move + Vector3.new(0, 1, 0) end
+            if input.KeyCode == Enum.KeyCode.LeftShift then move = move + Vector3.new(0, -1, 0) end
+        end)
+        
+        game:GetService("RunService").Heartbeat:Connect(function()
+            if flyEnabled and rootPart:FindFirstChild("FlyVelocity") then
+                rootPart.FlyVelocity.Velocity = move * 50
+            end
+        end)
+        
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "🌲 ForestHunter",
+            Text = "Полет включен! (WASD + Space/Shift)",
+            Duration = 3
+        })
+    else
+        if rootPart:FindFirstChild("FlyVelocity") then
+            rootPart.FlyVelocity:Destroy()
+        end
+    end
+end)
+
+-- Noclip
+createButton("🔮 Noclip", 560, function()
+    noclipEnabled = not noclipEnabled
+    
+    if noclipEnabled then
+        character:BreakJoints()
+        game:GetService("RunService").Heartbeat:Connect(function()
+            if noclipEnabled then
+                for _, part in pairs(character:GetDescendants()) do
+                    if part:IsA("BasePart") then
+                        part.CanCollide = false
+                    end
+                end
+            end
+        end)
+    end
+end)
+
+-- Закрывающая кнопка
+local closeBtn = Instance.new("TextButton")
+closeBtn.Size = UDim2.new(0, 30, 0, 30)
+closeBtn.Position = UDim2.new(1, -35, 0, 5)
+closeBtn.BackgroundColor3 = Color3.fromRGB(200, 50, 50)
+closeBtn.Text = "✕"
+closeBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+closeBtn.TextScaled = true
+closeBtn.Font = Enum.Font.GothamBold
+closeBtn.Parent = mainFrame
+
+closeBtn.MouseButton1Click:Connect(function()
+    screenGui:Destroy()
+end)
+
+-- Перетаскивание окна
+local drag = Instance.new("TextButton")
+drag.Size = UDim2.new(1, 0, 0, 45)
+drag.BackgroundTransparency = 1
+drag.Text = ""
+drag.Parent = mainFrame
+
+local dragging, dragInput, dragStart, startPos
+
+drag.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        dragging = true
+        dragStart = input.Position
+        startPos = mainFrame.Position
+        
+        input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then
+                dragging = false
+            end
+        end)
+    end
+end)
+
+drag.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement then
+        dragInput = input
+    end
+end)
+
+game:GetService("UserInputService").InputChanged:Connect(function(input)
+    if input == dragInput and dragging then
+        local delta = input.Position - dragStart
+        mainFrame.Position = UDim2.new(
+            startPos.X.Scale,
+            startPos.X.Offset + delta.X,
+            startPos.Y.Scale,
+            startPos.Y.Offset + delta.Y
+        )
+    end
+end)
+
+-- Уведомление о загрузке
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "🌲 ForestHunter V3",
+    Text = "Скрипт загружен! 13 функций готовы к использованию.",
+    Duration = 5
+})
+
+print("🌲 ForestHunter V3 загружен! Все функции работают! 🔥")
