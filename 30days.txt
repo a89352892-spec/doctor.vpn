@@ -1,4 +1,4 @@
-#profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Mobile-150
+#profile-title: 30DAYS
 #profile-update-interval: 1
 #support-url: https://t.me/doctorpay_vpnbot
 #announce:🔥 ОБНОВЛЕНИЕ: Чистый список от 23.06.2026
